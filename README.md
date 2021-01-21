@@ -7,4 +7,5 @@
 * Apprendre à rajouter une image sur cette plateforme, puisque je n'y arrive pas...
 
 Lien URL de ma photo de profil: https://www.pinterest.fr/pin/788341109764072560/
-!.[Les Super Nanas](images/supernana.jpeg)
+
+![Les Super Nanas](images/supernana.jpeg)
