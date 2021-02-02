@@ -1,5 +1,5 @@
 # oc20
-![superna](img/supernana.jpeg)
+![Les super nanas](img/supernana.jpeg)
 ## Tutorial
 ## Editor
 ## Game
@@ -15,5 +15,5 @@ Lien URL de ma photo de profil: https://www.pinterest.fr/pin/788341109764072560/
 
 ### Image:
 
-![Les Super Nanas](images/supernana.jpeg)
+
 
