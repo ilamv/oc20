@@ -1,5 +1,5 @@
 # oc20
-![superna] (img/supernana.jpeg)
+![superna](img/supernana.jpeg)
 ## Tutorial
 ## Editor
 ## Game
