@@ -2,6 +2,8 @@
 ![Les super nanas](img/supernana.jpeg)
 ## Tutorial
 ## Editor
+- éditeur graphique
+- permet de 
 ## Game
 
 ## Nouveau répositoire OC
