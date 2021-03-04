@@ -15,14 +15,14 @@ start = (0, 0)
 size = (0, 0)
 drawing = False
 color = RED
-width = 1
+width = 0
 type_ = 'r'
 shapes = []
 
 # définir une classe de formes (shape) avec rectangle, couleur, épaisseur
 # type_  'r' = rectangle, 'e' = elipsse
 class Shape:
-    def __init__(self, rect, color=RED, width=1, type_ = 'r'):
+    def __init__(self, rect, color=RED, width=0, type_ = 'r'):
         self.rect = rect
         self.color = color
         self.width = width

@@ -7,6 +7,7 @@ RED = (255, 0, 0)
 BLUE = (0, 0, 255)
 GREEN = (0, 255, 0)
 GRAY = (127, 127, 127)
+BLACK = (0,0,0)
 
 pygame.init()
 screen = pygame.display.set_mode((640, 240))
@@ -74,7 +75,7 @@ while running:
             end = event.pos
             size = end[0]-start[0], end[1]-start[1]
 
-    screen.fill(GRAY)
+    screen.fill(BLACK)
     for s in shape_list:
         pygame.draw.rect(screen, s.color, s.rect, s.width)
         
